@@ -1,4 +1,4 @@
-<h1>Hi, I'm Selali! </h1> Welcome to my GitHub profile! As an aspiring Cyber Security Analyst, I am dedicated to learning, exploring, and contributing to the field of cybersecurity. This repository serves as a showcase of my skills, projects, and contributions, highlighting my passion for ensuring the confidentiality, integrity, and availability of information systems.
+<h1>Hi, I'm Selali! </h1> Welcome to my GitHub profile! As an aspiring Cyber Security Professional, I am dedicated to learning, exploring, and contributing to the field of cybersecurity. This repository serves as a showcase of my skills, projects, and contributions, highlighting my passion for ensuring the confidentiality, integrity, and availability of information systems.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
